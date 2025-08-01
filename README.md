@@ -119,12 +119,10 @@ For portfolio allocation or behavioral modeling, do not overweight this product 
 
 4. **Treat Google Trends Popularity as a Supplementary, Not Predictive Tool**
 Across the study, popularity trends were most useful when interpreted alongside other metrics (e.g., earnings dates, product launches, macro events).
-
 Use popularity data to:
 - validate investor sentiment,
 - detect spikes in brand visibility,
 - enrich broader financial monitoring.
-
 It should not be used in isolation for decision-making.
 
 5. **Reducing the impact of seasonality on product financial modelling**
