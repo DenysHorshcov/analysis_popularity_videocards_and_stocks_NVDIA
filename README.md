@@ -128,13 +128,9 @@ It should not be used in isolation for decision-making.
 5. **Reducing the impact of seasonality on product financial modelling**
 Calendar-based seasonality (e.g., Q4 effects) had weak correlation with both stock price and GPU popularity.
 Models focused purely on months will likely miss the true drivers of investor behavior. Instead, prioritize:
-
 - event-based triggers (e.g., launch dates),
-
 - earnings releases,
-
 - marketing activity.
-
 These factors better align with observed fluctuations.
 
 6. **Expand to Competitor and Cross-Brand Search Analysis**
